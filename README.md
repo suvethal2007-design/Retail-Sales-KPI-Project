@@ -6,6 +6,7 @@ This project focuses on analyzing retail order data, defining important business
 
 The main objective is to create clear KPI definitions and identify data quality issues to support better business decision-making.
 
+
 ## Project Details
 
 * **Project Name:** Retail Sales KPI Analysis & Data Quality Assessment
